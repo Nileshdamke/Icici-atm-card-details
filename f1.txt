@@ -1,3 +1,13 @@
+// JIRA STORY AB-103
+
+tool {
+	maven "m3"
+	java "17"
+	docker "2.1"
+}
+
+
+
 // JIRA STORY AB-1
 
 pipeline {
