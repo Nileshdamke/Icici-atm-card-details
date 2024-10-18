@@ -23,6 +23,14 @@ pipeline {
 			}
 
 		}
+
+		//Task AB-102
+
+	stage ("git clone") {
+		step {
+			//logic
+		}
+	}
 	
 	}
 
